@@ -22,7 +22,7 @@ git commit -m "name_for_files"
 
 ## specify the remote Git Repository where the files in local Git repository
 ## will be pushed to by copying its URL
-git remote add origin https://github.com/wendyy11212/NIH_RNASEQ_WORKSHOP_03.20.git
+git remote add origin https://github.com/wendyy11212/RNASEQ_WORKSHOP_03.20.git
 
 ## push files from the local Git Repository to Github (remote Git Repository)
 git push -u origin master
